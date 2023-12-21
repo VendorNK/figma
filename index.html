@@ -14,6 +14,7 @@
         <div class="container"></div>
     </header>
     <section id="about" class="about">
+        <h1>Burning MAN</h1>
         <div class="container"></div>
     </section>
     <footer id="footer" class="footer">
